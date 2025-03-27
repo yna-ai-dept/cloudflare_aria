@@ -1,0 +1,6 @@
+name = "notion-proxy"
+type = "javascript"
+account_id = ""
+workers_dev = true
+compatibility_date = "2025-03-27"
+main = "index.js"
