@@ -1,4 +1,4 @@
-name = "notion-proxy"
+name = "aria"
 type = "javascript"
 account_id = ""
 workers_dev = true
